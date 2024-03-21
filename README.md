@@ -1,22 +1,22 @@
 # SuushiBOT_TOS
-TOS of Suushi BOT in Discord
+TOS do Suushi BOT em Discord
 
-Suushi Terms of Service
+Termos de Serviço do Suushi
 
-Welcome to Suushi Music Bot! Before you start using the services, please read the following terms carefully:
+Bem-vindo ao Suushi Music Bot! Antes de começar a usar os serviços, leia atentamente os seguintes termos:
 
-1. Use of Suushi: By adding Suushi to your Discord server, you agree to abide by all rules and policies in this document.
+1. Uso do Suushi: Ao adicionar Suushi ao seu servidor Discord, você concorda em cumprir todas as regras e políticas deste documento.
 
-2. Copyright: You are responsible for ensuring that you have the necessary rights to play and share music through the bot. We are not responsible for the misuse of copyrighted content.
+2. Direitos autorais: Você é responsável por garantir que possui os direitos necessários para reproduzir e compartilhar músicas por meio do bot. Não somos responsáveis ​​pelo uso indevido de conteúdo protegido por direitos autorais.
 
-3. Appropriate Behavior: It is prohibited to use a Suushi to promote violent, discriminatory, illegal or inappropriate content. We reserve the right to remove or access the bot at any time if we identify inappropriate behavior.
+3. Comportamento Apropriado: É proibido usar um Suushi para promover conteúdo violento, discriminatório, ilegal ou inapropriado. Reservamo-nos o direito de remover ou acessar o bot a qualquer momento caso identifiquemos comportamento inadequado.
 
-4. Updates and Maintenance: Suushi may undergo periodic updates to improve its functionality and security. We will do our best to minimize invites to the service during these updates.
+4. Atualizações e Manutenção: O Suushi poderá passar por atualizações periódicas para melhorar sua funcionalidade e segurança. Faremos o possível para minimizar os convites para o serviço durante essas atualizações.
 
-5. Limited Liability: We are not responsible for any direct, indirect, incidental or consequential damages arising from the use of Suushi.
+5. Responsabilidade Limitada: Não somos responsáveis ​​por quaisquer danos diretos, indiretos, incidentais ou consequenciais decorrentes do uso do Suushi.
 
-6. Termination of Service: We reserve the right to terminate the bot service at any time, without prior notice, if we deem it necessary.
+6. Rescisão do Serviço: Reservamo-nos o direito de encerrar o serviço do bot a qualquer momento, sem aviso prévio, se considerarmos necessário.
 
-By continuing to use Suushi, you agree to be bound by these terms of service. If you have any questions or concerns, please contact us through our support channels.
+Ao continuar a usar o Suushi, você concorda em obedecer a estes termos de serviço. Se você tiver alguma dúvida ou preocupação, entre em contato conosco através de nossos canais de suporte.
 
-Thank you for choosing a Suushi. Have a good time!
+Obrigado por escolher um Suushi. Divirta-se!
